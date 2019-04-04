@@ -5,8 +5,6 @@ import math
 import rsvg
 
 pygame.init()
-size = 200, 400
-screen = pygame.display.set_mode(size, 0, 32)
 
 def fixed_svg(svg, size):
     try:handle = rsvg.Handle(svg)
@@ -42,17 +40,3 @@ def scale_svg(svg, scale, size=None):
     handle.render_cairo(context)
     
     return page
-
-clock = pygame.time.Clock()
-
-page = fixed_svg('test.svg', size)
-
-while pygame.QUIT not in (e.type for e in pygame.event.get()):
-    screen.fill((0, 0, 0))
-    screen.blit(page, (0, 0))
-    pygame.display.flip()
-    clock.tick(10)
-    screen.fill((255, 255, 255))
-    screen.blit(page, (0, 0))
-    pygame.display.flip()
-    clock.tick(10)
