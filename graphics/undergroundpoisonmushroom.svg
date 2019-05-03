@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg948"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="undergroundpoisonmushroom.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata954">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs952">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath977">
+      <path
+         inkscape:connector-curvature="0"
+         id="path979"
+         d="M 1,18 C 1,12 10,1 16,1 22,1 31,12 31,18 31,24 17,23 16,23 15,23 1,24 1,18 Z"
+         style="fill:#e69c21;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1070">
+      <path
+         style="fill:#e69c21;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 0,18 C 0,12 10,0 16,0 22,0 32,12 32,18 32,24 17,24 16,24 15,24 0,24 0,18 Z"
+         id="path1072"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1080">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1082"
+         d="m 8,23 c 0,2 2,9 8,9 6,0 8,-7 8,-9"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1871"
+     inkscape:window-height="1061"
+     id="namedview950"
+     showgrid="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="11.313709"
+     inkscape:cx="9.8701261"
+     inkscape:cy="22.791524"
+     inkscape:window-x="49"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg948">
+    <inkscape:grid
+       type="xygrid"
+       id="grid958" />
+  </sodipodi:namedview>
+  <g
+     id="g2640">
+    <path
+       inkscape:connector-curvature="0"
+       id="path1054"
+       d="m 4,11.5 c 0,1 1,4.5 4,4.5 3,0 4,-3.5 4,-4.5"
+       style="fill:#b5efef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#007b8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,9 C 0,6 5,0 8,0 c 3,0 8,6 8,9 0,3 -7.5,3 -8,3 -0.5,0 -8,0 -8,-3 z"
+       id="path1056"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="2.5"
+       cy="7.5"
+       cx="4.5"
+       id="circle1060"
+       style="opacity:1;fill:#103239;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <ellipse
+       ry="1.5"
+       rx="1.25"
+       cy="8.5"
+       cx="13.25"
+       id="ellipse1062"
+       style="opacity:1;fill:#103239;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <ellipse
+       transform="scale(0.5)"
+       clip-path="url(#clipPath1070)"
+       style="opacity:1;fill:#103239;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="ellipse1064"
+       cx="21"
+       cy="6"
+       rx="5"
+       ry="4" />
+    <path
+       transform="scale(0.5)"
+       clip-path="url(#clipPath1080)"
+       inkscape:connector-curvature="0"
+       id="path1066"
+       d="m 21,27 c 0,2 -3,6 -4,6"
+       style="fill:none;fill-rule:evenodd;stroke:#007b8c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
